@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'koonlemao'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F606751E4105472D826362F238520107 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_52D56FB5DAD2456E844FB483B8F55B2B }}
           package: .
